@@ -17,6 +17,16 @@
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 -->
 
+Personal Interest:
+- Math
+- Computer Science
+
+Contact Me At:
+- smyzh5@nottingham.edu.cn Work Address
+- huazifan@gmail.com Personal Address
+- zifan.hua@icloud.com Personal Address
+
+## Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
 - [AI根据人类大脑活动重建视觉图像](https://blog.huazifan.eu.org/2023-03-03-human-mind-stable-diffusion/)
 - [Personal Collection of Textbooks](https://blog.huazifan.eu.org/2023-03-05-list-of-textbooks/)
@@ -25,6 +35,7 @@
 - [Beautiful Hugo Theme](https://blog.huazifan.eu.org/beautiful-hugo-themes/)
 <!-- BLOG-POST-LIST:END -->
 
+## My GitHub Stats
 [![Alex222222222222's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex222222222222)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex222222222222)](https://github.com/anuraghazra/github-readme-stats)
