@@ -28,11 +28,11 @@ Contact Me At:
 
 ## Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [How to uninstall a app on MacOS](https://blog.huazifan.eu.org/2023-04-26-uninstall-app-on-macos/)
 - [How to set up GPGSuite and GPGMail on Mac](https://blog.huazifan.eu.org/2023-04-17-gpgmail-mac/)
 - [Big Starry Sur](https://blog.huazifan.eu.org/2023-04-09-big-starry-sur/)
 - [AI根据人类大脑活动重建视觉图像](https://blog.huazifan.eu.org/2023-03-03-human-mind-stable-diffusion/)
 - [Personal Collection of Textbooks](https://blog.huazifan.eu.org/2023-03-05-list-of-textbooks/)
-- [How to Install and Use Pyenv](https://blog.huazifan.eu.org/2023-2-27-howto-install-and-use-pyenv/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats
