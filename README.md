@@ -29,10 +29,10 @@ Contact Me At:
 ## Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
 - [GreenField The City In Minecraft](https://blog.huazifan.eu.org/2023-06-05-greenfield-city-in-minecraft/)
+- [NixOS Configurations | NixOS 不完全手记](https://blog.huazifan.eu.org/2023-05-06-nixos-configuratioins/)
 - [How to uninstall a app on MacOS](https://blog.huazifan.eu.org/2023-04-26-uninstall-app-on-macos/)
 - [How to set up GPGSuite and GPGMail on Mac](https://blog.huazifan.eu.org/2023-04-17-gpgmail-mac/)
 - [Big Starry Sur](https://blog.huazifan.eu.org/2023-04-09-big-starry-sur/)
-- [AI根据人类大脑活动重建视觉图像](https://blog.huazifan.eu.org/2023-03-03-human-mind-stable-diffusion/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats
