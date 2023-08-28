@@ -22,6 +22,7 @@ Personal Interest:
 - Computer Science
 
 Contact Me At:
+- smyzh5@nottingham.ac.uk Work Address
 - smyzh5@nottingham.edu.cn Work Address
 - huazifan@gmail.com Personal Address
 - zifan.hua@icloud.com Personal Address
