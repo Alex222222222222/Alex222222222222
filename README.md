@@ -29,11 +29,11 @@ Contact Me At:
 
 ## Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
-- [GreenField The City In Minecraft](https://alex1222.com/2023-06-05-greenfield-city-in-minecraft/)
-- [NixOS Configurations | NixOS 不完全手记](https://alex1222.com/2023-05-06-nixos-configuratioins/)
-- [How to uninstall a app on MacOS](https://alex1222.com/2023-04-26-uninstall-app-on-macos/)
-- [How to set up GPGSuite and GPGMail on Mac](https://alex1222.com/2023-04-17-gpgmail-mac/)
-- [Big Starry Sur](https://alex1222.com/2023-04-09-big-starry-sur/)
+- [NixOS Configurations | NixOS 不完全手记](https://alex1222.com//posts/2023-05-06-NixOS-Configuratioins)
+- [GreenField The City In Minecraft](https://alex1222.com//posts/2023-06-05-greenfield-city-in-minecraft)
+- [How to uninstall a app on MacOS](https://alex1222.com//posts/2023-04-26-Uninstall-App-On-MacOS)
+- [How to set up GPGSuite and GPGMail on Mac](https://alex1222.com//posts/2023-04-17-GPGMail-Mac)
+- [Big Starry Sur](https://alex1222.com//posts/2023-04-09-Big-Starry-Sur)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats
