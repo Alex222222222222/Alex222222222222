@@ -29,11 +29,11 @@ Contact Me At:
 
 ## Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Galois Theory Notes](https://alex1222.com/posts/2023-11-10-Galois-Theory-Notes)
 - [《爱国主义教育法》即将施行](https://alex1222.com/posts/2023-11-08-爱国主义教育法-即将施行.md)
 - [《自然》撤回室温超导论文](https://alex1222.com/posts/2023-11-08-自然-撤回室温超导论文.md)
-- [NixOS Configurations | NixOS 不完全手记](https://alex1222.com/posts/2023-05-06-NixOS-Configuratioins)
 - [GreenField The City In Minecraft](https://alex1222.com/posts/2023-06-05-greenfield-city-in-minecraft)
-- [How to uninstall a app on MacOS](https://alex1222.com/posts/2023-04-26-Uninstall-App-On-MacOS)
+- [NixOS Configurations | NixOS 不完全手记](https://alex1222.com/posts/2023-05-06-NixOS-Configuratioins)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats
