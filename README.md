@@ -29,9 +29,9 @@ Contact Me At:
 <!-- BLOG-POST-LIST:START -->
 - [Discovery of the Ninth Dedekind Number: A Decades-Long Search and Computational Breakthrough](https://alex1222.com/posts/2023-11-20-The-20th-Dedekind-Number-Been-Discovered.md)
 - [Galois Theory Notes](https://alex1222.com/posts/2023-11-10-Galois-Theory-Notes)
-- [《爱国主义教育法》即将施行](https://alex1222.com/posts/2023-11-08-爱国主义教育法-即将施行.md)
 - [《自然》撤回室温超导论文](https://alex1222.com/posts/2023-11-08-自然-撤回室温超导论文.md)
-- [NixOS Configurations | NixOS 不完全手记](https://alex1222.com/posts/2023-05-06-NixOS-Configuratioins)
+- [Addition Of Algebraic Element](https://alex1222.com/posts/2023-06-25-Addition-Of-Algebraic-Element)
+- [GreenField The City In Minecraft](https://alex1222.com/posts/2023-06-05-greenfield-city-in-minecraft)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats
