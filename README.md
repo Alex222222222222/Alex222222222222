@@ -27,11 +27,11 @@ Contact Me At:
 
 ## Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [$10mn AI Mathematical Olympiad Prize Launches](https://alex1222.com/posts/2023-12-01-10mn-AI-Mathematical-Olympiad-Prize-Launches.md)
+- [让别人看到你裸眼视力的方法](https://alex1222.com/posts/2023-11-29-让别人看到你裸眼视力的方法.md)
+- [Understanding IP Address - Some Basics](https://alex1222.com/posts/2023-11-28-Understanding-IP-Address.md)
 - [Discovery of the Ninth Dedekind Number: A Decades-Long Search and Computational Breakthrough](https://alex1222.com/posts/2023-11-20-The-20th-Dedekind-Number-Been-Discovered.md)
 - [Galois Theory Notes](https://alex1222.com/posts/2023-11-10-Galois-Theory-Notes)
-- [《自然》撤回室温超导论文](https://alex1222.com/posts/2023-11-08-自然-撤回室温超导论文.md)
-- [Addition Of Algebraic Element](https://alex1222.com/posts/2023-06-25-Addition-Of-Algebraic-Element)
-- [GreenField The City In Minecraft](https://alex1222.com/posts/2023-06-05-greenfield-city-in-minecraft)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats
