@@ -27,11 +27,11 @@ Contact Me At:
 
 ## Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
-- [Edit Git History](https://alex1222.com/posts/2023-12-30-Edit-Git-History.md)
 - [Transitioning Themes: Embracing Simplicity and Serious Exploration](https://alex1222.com/posts/2023-12-28-Why-I-Stop-Using-The-Last-Themes.md)
-- [General Topology Notes](https://alex1222.com/posts/2023-12-03-General-Topology-Notes.md)
 - [Upgrade Postgresql From 14 to 15](https://alex1222.com/posts/2023-12-05-Upgrade-Postgresql-From-14-to-15.md)
+- [General Topology Notes](https://alex1222.com/posts/2023-12-03-General-Topology-Notes.md)
 - [$10mn AI Mathematical Olympiad Prize Launches](https://alex1222.com/posts/2023-12-01-10mn-AI-Mathematical-Olympiad-Prize-Launches.md)
+- [让别人看到你裸眼视力的方法](https://alex1222.com/posts/2023-11-29-让别人看到你裸眼视力的方法.md)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats
