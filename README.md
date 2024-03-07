@@ -27,11 +27,11 @@ Contact Me At:
 
 ## Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Running Witcher 3 on MacOS](https://alex1222.com/posts/2024-03-07-Run-Witcher3-On-MacOS.md)
 - [Download encrypted HLS content with ffmpeg](https://alex1222.com/posts/2024-02-23-Download-Encrypted-HLS-Content-With-FFMPEG.md)
 - [Transitioning Themes: Embracing Simplicity and Serious Exploration](https://alex1222.com/posts/2023-12-28-Why-I-Stop-Using-The-Last-Themes.md)
 - [General Topology Notes](https://alex1222.com/posts/2023-12-03-General-Topology-Notes.md)
 - [Upgrade Postgresql From 14 to 15](https://alex1222.com/posts/2023-12-05-Upgrade-Postgresql-From-14-to-15.md)
-- [$10mn AI Mathematical Olympiad Prize Launches](https://alex1222.com/posts/2023-12-01-10mn-AI-Mathematical-Olympiad-Prize-Launches.md)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats
