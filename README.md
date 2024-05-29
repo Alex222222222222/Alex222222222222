@@ -27,11 +27,11 @@ Contact Me At:
 
 ## Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Mechanics Note](https://alex1222.com/posts/2024-05-27-Quantum-Mechanics-Note.md)
 - [Probability Note](https://alex1222.com/posts/2024-05-26-Probability-Note.md)
 - [Classical Mechanics Notes](https://alex1222.com/posts/2024-05-23-Classical-Mechanics-Notes.md)
 - [The Seven Snow White Princesses and the Envious Dwarf](https://alex1222.com/posts/2024-05-10-TheSevenSnowWhitePrincessesAndTheEnviousDwarf.md)
 - [Running Witcher 3 on MacOS](https://alex1222.com/posts/2024-03-07-Run-Witcher3-On-MacOS.md)
-- [Download encrypted HLS content with ffmpeg](https://alex1222.com/posts/2024-02-23-Download-Encrypted-HLS-Content-With-FFMPEG.md)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats
