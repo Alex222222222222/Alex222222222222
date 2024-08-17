@@ -27,11 +27,11 @@ Contact Me At:
 
 ## Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Install K3S on Machine do not have Internet Access](https://alex1222.com/posts/2024-08-16-Install-K3S.md)
 - [Markov Chain Note](https://alex1222.com/posts/2024-05-29-Markov-Chain-Note.md)
 - [Quantum Mechanics Note](https://alex1222.com/posts/2024-05-27-Quantum-Mechanics-Note.md)
 - [Probability Note](https://alex1222.com/posts/2024-05-26-Probability-Note.md)
 - [Classical Mechanics Notes](https://alex1222.com/posts/2024-05-23-Classical-Mechanics-Notes.md)
-- [The Seven Snow White Princesses and the Envious Dwarf](https://alex1222.com/posts/2024-05-10-TheSevenSnowWhitePrincessesAndTheEnviousDwarf.md)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats
